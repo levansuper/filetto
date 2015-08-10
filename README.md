@@ -6,9 +6,8 @@
 `npm install`<br>
 
 ###change:
-`config/servers/web.js`<br>
-`config/mongoose.js`<br>
-
+`config/servers/web.js` to change port<br>
+`config/mongoose.js` to change mongodb connection<br>
 
 
 ## To Run:
