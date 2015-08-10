@@ -1,0 +1,33 @@
+ {
+  "author"      : "Levan Basharuli",
+  "name"        : "file_server_api",
+  "description" : "file_server_api",
+  "IMPORTANT"   : "need:  sudo apt-get install graphicsmagick",
+  "version"     : "0.0.1",
+  "engines"     : {
+    "node": ">=0.10.0"
+  },
+  "dependencies" : {
+    "actionhero" : "11.2.0",
+    "ws"         : "latest",
+    "grunt"      : "latest",
+    "mongoose"   : "3.8.23",    
+    "request"    : "2.54.0",
+    "file-type"  : "2.5.0",
+    "diskspace"  : "0.1.7",
+    "fs-extra"   : "0.18.2",
+    "gm"         : "1.18.1 ",
+    "readable-stream-clone" : "0.0.1"
+  },
+  "devDependencies" : {
+    "mocha"  : "latest",
+    "should" : "latest"
+  },
+  "scripts" : {
+    "help"         : "actionhero help",
+    "start"        : "actionhero start",
+    "actionhero"   : "actionhero",
+    "startCluster" : "actionhero startCluster",
+    "test"         : "mocha"
+  }
+}
