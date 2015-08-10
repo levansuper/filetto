@@ -13,3 +13,9 @@
 
 ## To Run:
 `npm start`
+
+
+## API documentation
+http://localhost:3050/api/showDocumentation
+
+
