@@ -1,9 +1,9 @@
 # Filetto File Server
 
 ## How To Install:
-`sudo apt-get install imagemagick` \n
-`npm install filetto` \n
-`npm install` \n
+`sudo apt-get install imagemagick` <br>
+`npm install filetto`
+`npm install`
 
 change:
 `config/servers/web.js`
