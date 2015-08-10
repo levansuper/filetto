@@ -5,7 +5,7 @@
 `npm install filetto`<br>
 `npm install`<br>
 
-change:<br>
+###change:<br>
 `config/servers/web.js`<br>
 `config/mongoose.js`<br>
 
@@ -13,6 +13,3 @@ change:<br>
 
 ## To Run:
 `npm start`
-
-## To Test:
-`npm test`
