@@ -1,9 +1,15 @@
 # Filetto File Server
 
-## To install:
-(assuming you have [node](http://nodejs.org/) and NPM installed)
-
+## How To Install:
+`sudo apt-get install imagemagick`
+`npm install filetto`
 `npm install`
+
+change:
+`config/servers/web.js`
+`config/mongoose.js`
+
+
 
 ## To Run:
 `npm start`
