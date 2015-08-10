@@ -2,12 +2,12 @@
 
 ## How To Install:
 `sudo apt-get install imagemagick` <br>
-`npm install filetto`
-`npm install`
+`npm install filetto`<br>
+`npm install`<br>
 
-change:
-`config/servers/web.js`
-`config/mongoose.js`
+change:<br>
+`config/servers/web.js`<br>
+`config/mongoose.js`<br>
 
 
 
