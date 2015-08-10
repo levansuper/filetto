@@ -1,6 +1,4 @@
-# My actionhero Project
-
-*visit www.actionherojs.com for more information*
+# Filetto File Server
 
 ## To install:
 (assuming you have [node](http://nodejs.org/) and NPM installed)
